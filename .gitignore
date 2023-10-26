@@ -1,0 +1,13 @@
+
+
+
+ols.json
+
+# build output
+*.exe
+*.obj
+
+
+# sandbox
+sandbox/user.json
+
