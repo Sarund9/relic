@@ -11,3 +11,5 @@ ols.json
 # sandbox
 sandbox/user.json
 
+# SDL
+SDL2.*
